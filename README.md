@@ -31,53 +31,54 @@ and display the result.
   e. exits with code 0 
 
  
+ 
+**The input to the program is in the following form**
+		
+        Enter the number of rows and columns: n p
 
-The input to the program is in the following form 
+		Please enter p numbers in n rows:
 
-Enter the number of rows and columns: n p
+		row 1 
 
-Please enter p numbers in n rows:
+		row 2 
 
-row 1 
+		… 
 
-row 2 
-
-… 
-
-row n 
+		row n
 
 
-Enter the number of rows and columns: m p 
 
-Please enter p numbers in m rows:
+        Enter the number of rows and columns: m p 
 
-row 1 
+        Please enter p numbers in m rows:
 
-row 2 
+        row 1 
 
-… 
+        row 2 
 
-row p 
+        … 
+
+        row p 
 
 
 and is read from the standard input., For example 
 
-3 4 
+        3 4 
 
-1 2 3 4 
+        1 2 3 4 
 
-8 1 12 15 
+        8 1 12 15 
 
-1 9 10 11 
+        1 9 10 11 
 
 
 
-4 3 
+        4 3 
 
-1 2 3 
+        1 2 3 
 
-1 1 1 
+        1 1 1 
 
-2 2 2 
+        2 2 2 
 
-3 2 1 
+        3 2 1 
