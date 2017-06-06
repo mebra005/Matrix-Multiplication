@@ -18,17 +18,17 @@ and display the result.
 
 2. **The multiply program** 
 
-  a. receives a row number (i) and column number (j) form its command line 
-  argument (i.e. in argv[1] and argv[2]) 
+    a. receives a row number (i) and column number (j) form its command line 
+    argument (i.e. in argv[1] and argv[2]) 
 
-  b. displays its process id and the values of i and j (i.e. process nnnn received i, j) 
+    b. displays its process id and the values of i and j (i.e. process nnnn received i, j) 
 
-  c. computes elementi,j of the product matrix and puts the result in the product 
-  matrix 
+    c. computes elementi,j of the product matrix and puts the result in the product 
+    matrix 
 
-  d. displays its process id and the value it computed in step c (i.e. process nnnn computed y) 
+    d. displays its process id and the value it computed in step c (i.e. process nnnn computed y) 
 
-  e. exits with code 0 
+    e. exits with code 0 
 
  
  
